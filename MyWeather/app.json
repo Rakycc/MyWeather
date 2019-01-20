@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#4169e1",
+    "navigationBarBackgroundColor": "#4169e1",
+    "navigationBarTitleText": "小雨新晴",
+    "navigationBarTextStyle": "#ffffff",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
